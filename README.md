@@ -2,7 +2,7 @@
 
 <p><em>Este repositório contém o código-fonte para uma calculadora criada em JS, para ser exibida no site.</em></p>
 
-## <h2>:desktop: Tecnologias Utilizadas:</h2>
+## <h2>🖥️ Tecnologias Utilizadas:</h2>
 <ul>
       <li>JavaScript.</li>
       <li>Html.</li>
