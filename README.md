@@ -17,6 +17,6 @@
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1152225878479224993/image.png)
 
-# :mobile_phone: Redes Sociais:
+# 📱 Redes Sociais:
 * Meu [GitHub](https://github.com/ViniciusTunes)
 * Meu [Instagram](https://www.instagram.com/yng.Vinicius/)
